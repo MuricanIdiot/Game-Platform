@@ -1,0 +1,54 @@
+.background    { background-image: url(https://images7.alphacoders.com/362/thumb-1920-362119.jpg);
+                 table-layout: fixed;
+                 background-repeat: no-repeat;
+                 background-size:cover ;
+                 border-spacing: 0;   }
+.background td { padding: ;          }
+.lava          { background: linear-gradient(#553333, #cc4422, #ff6600,	#ffff44 ); }
+.wall          { background: linear-gradient(silver, gray, black);   }
+.floater       { background: linear-gradient(#FFCE00, #21556E );}
+
+
+.actor  { position: absolute;  }
+
+.sabertooth { background-image: url(https://tempassets.yolasite.com/resources/Sabertooth.png);
+          background-size: contain;
+          background-repeat: no-repeat;}
+
+.magneto { background-image: url(https://tempassets.yolasite.com/resources/Magneto.png.opt388x528o0%2C0s388x528.png);
+                    background-size: contain;
+                    background-repeat: no-repeat;}
+
+.text { background-image: url(https://i.pinimg.com/originals/ec/2b/8a/ec2b8af97c66f88661f2d567395396e7.jpg);
+
+      background-size: cover;
+        background-repeat: no-repeat;}
+
+.trig { background-image: url(https://tempassets.yolasite.com/resources/Humans.png);
+       background-size: cover;
+      background-repeat: no-repeat;}
+
+.player { background-image: url(https://tempassets.yolasite.com/resources/Storm.png.opt448x598o0%2C0s448x598.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+      }
+.coin { background-image: url(https://png.icons8.com/metro/1600/spiderman-new.png);
+        background-size: contain;
+        background-repeat: no-repeat;}
+.game {
+        overflow: hidden;
+        max-width: 700px;
+        max-height: 480px;
+        position: relative;
+        border: 10px solid black;
+      }
+
+.lost .player {
+  background-image: url(https://tempassets.yolasite.com/resources/Skeleton.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.won .player {
+  background-image: url(https://tempassets.yolasite.com/resources/Storm%20WIn.png);
+  background-size: contain;
+}
